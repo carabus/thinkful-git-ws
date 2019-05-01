@@ -1,1 +1,6 @@
-Hello, file!!!! test
+
+Push Hello file down 4 lines to create confict.
+
+
+
+Hello, file
